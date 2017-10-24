@@ -1,4 +1,4 @@
-# todo-api
+
 Mean app with Nodejs and Mongodb
 
 This example is based on the following tutorial
